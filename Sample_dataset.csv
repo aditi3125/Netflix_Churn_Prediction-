@@ -1,0 +1,20 @@
+﻿customer_id,age,gender,subscription_type,watch_hours,last_login_days,region,device,monthly_fee,churned,payment_method,number_of_profiles,avg_watch_time_per_day,favorite_genre
+a9b75100-82a8-427a-a208-72f24052884a,51,Other,Basic,14.73,29,Africa,TV,8.99,1,Gift Card,1,0.49,Action
+49a5dfd9-7e69-4022-a6ad-0a1b9767fb5b,47,Other,Standard,0.7,19,Europe,Mobile,13.99,1,Gift Card,5,0.03,Sci-Fi
+4d71f6ce-fca9-4ff7-8afa-197ac24de14b,27,Female,Standard,16.32,10,Asia,TV,13.99,0,Crypto,2,1.48,Drama
+d3c72c38-631b-4f9e-8a0e-de103cad1a7d,53,Other,Premium,4.51,12,Oceania,TV,17.99,1,Crypto,2,0.35,Horror
+4e265c34-103a-4dbb-9553-76c9aa47e946,56,Other,Standard,1.89,13,Africa,Mobile,13.99,1,Crypto,2,0.13,Action
+d8079475-5be7-47e9-8782-ceb7ff61395e,58,Female,Standard,13.8,26,Oceania,Mobile,13.99,0,Debit Card,3,0.51,Action
+8e63450a-13d6-4e83-bbb5-6aebde9152cb,48,Other,Basic,13.83,20,Asia,TV,8.99,0,Gift Card,5,0.66,Romance
+02387681-8c42-462a-807a-de0168c73b38,51,Male,Basic,14.3,56,Europe,Mobile,8.99,1,Gift Card,1,0.25,Action
+0bcaad0c-545c-4ee1-85a6-75e165f39361,45,Other,Basic,9.98,10,Asia,Mobile,8.99,0,PayPal,3,0.91,Romance
+eae6439e-8cdf-4258-ab49-c493925b927a,32,Other,Premium,2.22,34,Europe,TV,17.99,1,Debit Card,1,0.06,Drama
+45a03ce3-26d0-4cd5-a9bd-22d42490b612,26,Male,Premium,15.42,36,Asia,Laptop,17.99,0,Debit Card,4,0.42,Comedy
+9df43ad1-d6ee-44d0-a79b-c8ab444f10bf,28,Other,Standard,22.26,38,South America,Mobile,13.99,0,Crypto,5,0.57,Horror
+4690bf9c-b828-44d3-bdb6-f91b10668288,47,Other,Standard,7.92,23,South America,TV,13.99,0,Crypto,1,0.33,Sci-Fi
+0aac0e54-7d40-4cf2-abe4-45f3ff73f5ff,49,Female,Basic,5.26,33,South America,Mobile,8.99,1,Crypto,3,0.15,Documentary
+e2a75072-5f48-47ed-a533-eb1b0301aad9,39,Female,Basic,10.97,10,Oceania,Mobile,8.99,0,PayPal,1,1,Comedy
+25db8257-f409-4acd-81f8-99629fbf15a0,32,Female,Premium,40.94,7,South America,Desktop,17.99,0,Crypto,1,5.12,Action
+bf48551e-a8e6-4fd9-bb32-3f798ed84680,46,Other,Premium,1.25,13,Europe,Tablet,17.99,1,Debit Card,3,0.09,Comedy
+3819aaed-bed6-49c8-ab53-0fd9d917e4e1,48,Female,Standard,8.12,32,Africa,Desktop,13.99,1,Crypto,2,0.25,Action
+e2f28860-44e4-4fc2-a445-014332e7fb11,68,Female,Premium,7.67,40,Oceania,Tablet,17.99,0,PayPal,4,0.19,Romance
