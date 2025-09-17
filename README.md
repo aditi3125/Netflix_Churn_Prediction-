@@ -30,14 +30,6 @@ Note: The full dataset is private. Only a **sample dataset (10–20 rows)** is i
   New customer data passes through the same preprocessing steps automatically before prediction.
 
 ---
-
-##  Installation
-Clone the repo and install dependencies:
-```bash
-git clone https://github.com/<your-username>/CODING-SAMURAI-INTERNSHIP-TASK.git
-cd netflix-churn-prediction
-pip install -r requirements.txt
-
 ##Results
 Model Accuracy: 97.8%
 Confusion Matrix: Shows very few false positives & negatives.
